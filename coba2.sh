@@ -1,0 +1,10 @@
+x=27
+y=9
+let jumlah=$x+$y
+let kurang=$x-$y
+let kali=$x*$y
+bagi=`expr $x / $y`
+echo "$x+$y=$jumlah"
+echo "$x-$y=$kurang"
+echo "$x*$y=$kali"
+echo "$x/$y=$bagi"
